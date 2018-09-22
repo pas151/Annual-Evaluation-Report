@@ -29,7 +29,7 @@ C++14
 
 ## Versioning
 
-I use [Git](https://git-scm.com) for versioning. For the versions available, see the [tags on this repository](https://github.com/pas151/Annual-Evaluation-Report/tags).
+I use [GitVersion](https://gitversion.readthedocs.io/en/stable) for versioning. For the versions available, see the [tags on this repository](https://github.com/pas151/Annual-Evaluation-Report/tags).
 
 ## How to use?
 - Input the name of the employee, name of the supervisor, employee ID #, fall semester evaluation, spring semester evaluation, and summer semester evaluation
